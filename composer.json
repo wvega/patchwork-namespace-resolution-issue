@@ -1,0 +1,13 @@
+{
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "antecedent/patchwork": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Willington Vega",
+            "email": "wvega@wvega.com"
+        }
+    ]
+}
